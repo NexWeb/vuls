@@ -10,8 +10,7 @@
 ![Vuls-logo](img/vuls_logo.png)  
 
 Vulnerability scanner for Linux/FreeBSD, agentless, written in golang.  
-We have a slack team. [Join slack team](http://goo.gl/forms/xm5KFo35tu)  
-Twitter: [@vuls_en](https://twitter.com/vuls_en)
+Twitter: [@vuls_en](https://twitter.com/NexWebSites)
 
 ![Vuls-Abstract](img/vuls-abstract.png)
 
